@@ -1,6 +1,21 @@
 # hyphanet-tutorial
 Tecnologia de privacidade e segurança contra censura e liberdade de expressão na internet e sua instalação e uso para ativistas e população censurada por servers arpanet.
 
+
+
+
+
+
+![Untitled](https://github.com/thaleshodan/hyphanet-tutorial/assets/173853965/c5898839-e2e5-415e-a781-7d3e51978488)
+
+
+
+
+
+
+
+
+
 Freenet é uma plataforma peer-to-peer para comunicação anônima e resistente à censura. Projetada para permitir a distribuição segura de dados sem a supervisão ou controle central, Freenet é amplamente utilizada para a publicação anônima de informações, comunicação e compartilhamento de arquivos. Aqui está uma visão detalhada das suas características técnicas, arquitetura e funcionamento.
 
 Freenet utiliza um sistema de caching descentralizado onde os dados frequentemente acessados são replicados em múltiplos nós.
