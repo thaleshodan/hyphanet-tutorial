@@ -6,7 +6,7 @@ Freenet é uma plataforma peer-to-peer para comunicação anônima e resistente 
 Freenet utiliza um sistema de caching descentralizado onde os dados frequentemente acessados são replicados em múltiplos nós.
 Isso melhora a eficiência da rede e garante que o conteúdo popular esteja mais prontamente disponível.
 
- ```BAIXAR O GERENCIAMENTO DE DOWNDLOADS .JAR HYPHANET:
+ ```  BAIXAR O GERENCIAMENTO DE DOWNDLOADS .JAR HYPHANET:
 
     Acesse o site oficial do Freenet: https://freenetproject.org.
     Clique em "Download" e selecione a opção para Windows.
